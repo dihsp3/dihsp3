@@ -33,7 +33,7 @@ Olá, sou Diogo Severo
   
   
  
-  ![Snake animation](https://github.com/dihsp3us-dihsp3output/github-contribution-grid-snake.svg)
+
  
 </div>
 
