@@ -2,9 +2,11 @@
 
 Olá, sou Diogo Severo
 
-- 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudando JavaScript e React
-- 📫 contacte-me no email: diogosevero55@gmail.com
+💻 Developer Front - End jr 
+🏡 São Paulo
+🌎 Brazil
+- Estudando JavaScript e React
+- email: diogosevero55@gmail.com
 
 
 <div align="center">
