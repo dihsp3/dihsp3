@@ -4,7 +4,7 @@ Olá, sou Diogo Severo
 
 <br>💻 Developer Front - End jr <br>
 <br>🏡 São Paulo<br>
-<be>🌎 Brazil<br>
+<br>🌎 Brazil<br>
 - Estudando JavaScript e React
 - email: diogosevero55@gmail.com
 
