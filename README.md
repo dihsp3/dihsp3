@@ -3,7 +3,7 @@
 Olá, sou Diogo Severo
 
 - 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudando React e Nodejs
+- 🌱 Estudando JavaScript e React
 - 📫 contacte-me no email: diogosevero55@gmail.com
 
 
