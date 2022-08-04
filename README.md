@@ -2,11 +2,20 @@
 
 Olá, sou Diogo Severo
 
+##
+
 <br>💻 Developer Front - End jr <br>
 <br>🏡 São Paulo<br>
 <br>🌎 Brazil<br>
+
+##
+
+
 - Estudando JavaScript e React
 - email: diogosevero55@gmail.com
+
+
+##
 
 
 <div align="center">
@@ -15,6 +24,8 @@ Olá, sou Diogo Severo
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihsp3&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+
+##
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
