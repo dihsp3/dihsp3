@@ -4,7 +4,7 @@ Olá, sou Diogo Severo
 
 ##
 
-<br>💻 Developer Front - End jr <br>
+<br>💻 Developer Front - End  <br>
 <br>🏡 São Paulo<br>
 <br>🌎 Brazil<br>
 
