@@ -11,7 +11,7 @@ Olá, sou Diogo Severo
 ##
 
 
-- Estudando JavaScript e React
+- Trabalho com JavaScript e ReactJs
 - email: diogosevero55@gmail.com
 
 
