@@ -4,7 +4,7 @@ Olá, sou Diogo Severo
 
 <br>💻 Developer Front - End  <br>
 <br>Linguagens: Javascript <br>
-<br>💼 Ferramentas: React JS | Redux | Context API | GIT | Styled-Components | HTML | CSS | Sass | react-testing-library | Jest |<br>
+<br>💼 Ferramentas: React JS | GIT | Styled-Components | HTML | CSS | Sass | Jest |<br>
 
 ##
 
